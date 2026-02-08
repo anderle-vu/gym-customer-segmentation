@@ -7,7 +7,7 @@ Using clustering models built in Python, the analysis explores how demographic a
 ## Objectives
 - Analyse gym member demographic data to uncover key behavioural and socioeconomic patterns  
 - Determine the optimal number of customer segments using the Elbow Method and Silhouette Analysis  
-- Apply K-means++ and Agglomerative Clustering to group members with similar characteristics  
+- Apply K-means++ to group members with similar characteristics  
 - Interpret and label customer segments to build actionable profiles  
 - Develop data-driven marketing recommendations for each segment  
 
@@ -38,8 +38,8 @@ The Elbow Method and Silhouette Scores indicated **k = 2** as the most appropria
 (highest silhouette score = **0.545**).
 
 ### 3. Clustering Models
-- K-means++ and Agglomerative Clustering were applied to all variables  
-- Both techniques produced consistent results with two well-defined customer segments  
+- K-means++ Clustering were applied to all variables  
+- The technique produced consistent results with two well-defined customer segments  
 
 ## Results and Insights
 
@@ -87,5 +87,5 @@ Represents mature, financially secure customers who value premium wellness exper
 - Visual segmentation report with actionable marketing insights  
 
 ## Author
-Prepared by: Ander Le
+Prepared by: Ander Le 
 Business Analyst | Sydney, NSW
