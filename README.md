@@ -87,5 +87,6 @@ Represents mature, financially secure customers who value premium wellness exper
 - Visual segmentation report with actionable marketing insights  
 
 ## Author
-**Prepared by:** Ander Le 
+Prepared by: Ander Le 
+
 Business Analyst | Sydney, NSW
